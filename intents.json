@@ -1,0 +1,276 @@
+{
+  "intents": [
+    {
+      "label": "Submit_Idea",
+      "patterns": [
+        "How do I submit my idea to school?",
+        "How can I present my idea to the school for consideration?",
+        "What is the procedure for offering my idea to the school?",
+        "How do I go about putting forward my idea to the school?",
+        "What steps should I take to present my idea to the school?",
+        "What's the process for sharing my idea with the school?",
+        "How can I formally submit my idea to the school?",
+        "What's the best way to propose my idea to the school?",
+        "How should I go about introducing my idea to the school administration?",
+        "What's the proper channel for presenting my idea to the school?",
+        "What's the correct procedure for bringing my idea to the attention of the school?"
+      ],
+      "responses": [
+        "To submit your idea, you can visit the 'Submit Ideas' section on the school's website. It will take you to a simple form to fill in your information and your idea."
+      ]
+    },
+    {
+      "label": "Provide_Details",
+      "patterns": [
+        "What information do I need to provide when submitting my ideas?",
+        "What details are necessary for me to furnish while presenting my ideas?",
+        "What specifics must I include when putting forth my ideas?",
+        "What particulars should be included in my idea submission?",
+        "What basic information is required for me to include when sharing my ideas?"
+      ],
+      "responses": [
+        "When submitting your ideas, it's essential to provide key details such as your name, email address, and a comprehensive description of your idea. Additionally, you can provide supporting materials such as images, documents, or any other relevant information to further elucidate your ideas."
+      ]
+    },
+    {
+      "label": "Evaluation_Process",
+      "patterns": [
+        "How will my idea be considered?",
+        "What is the process for reviewing my idea?",
+        "How can I ascertain whether my idea has been taken into account?",
+        "What steps are involved in executing my idea?",
+        "How will my idea be put into practice?",
+        "What is the plan for implementing my idea?",
+        "How will my idea be transformed into reality?",
+        "What are the steps to bring my idea to life?",
+        "How will my idea come to fruition?"
+      ],
+      "responses": [
+        "Your idea will be forwarded to an appropriate group or individual for consideration. We strive to consider every idea carefully and fairly to ensure that every opinion is considered."
+      ]
+    },
+    {
+      "label": "Multiple_Ideas",
+      "patterns": [
+        "Can I submit multiple ideas?",
+        "Am I allowed to propose numerous ideas?",
+        "Is there a limit to the number of ideas I can present?",
+        "Am I restricted in the number of ideas I can put forward?"
+      ],
+      "responses": [
+        "Absolutely! We always welcome any ideas from the community. You can submit as many ideas as you want."
+      ]
+    },
+    {
+      "label": "Engagement",
+      "patterns": [
+        "Can I discuss my ideas with others?",
+        "Is it permissible for me to engage in discussions about my ideas with others?",
+        "Am I allowed to converse with others about my ideas?",
+        "Can I openly talk about my ideas with others?",
+        "Is it acceptable for me to discuss my ideas with others?",
+        "Is it okay for me to have conversations about my ideas with others?",
+        "Can I share and discuss my ideas with others openly?",
+        "Am I permitted to exchange ideas with others and seek feedback?",
+        "Is it allowed for me to seek input from others about my ideas?",
+        "Can I seek input and engage in discussions with others about my ideas?"
+      ],
+      "responses": [
+        "Certainly! We promote community engagement and value open discussions and feedback. You're welcome to share your ideas and engage with others to improve them."
+      ]
+    },
+    {
+      "label": "Notification",
+      "patterns": [
+        "How do I know my idea has been considered?",
+        "What is the process for receiving feedback on the consideration of my idea?",
+        "How will I be informed if my idea has been taken into account?",
+        "How can I find out if my idea has been considered?",
+        "What is the procedure for finding out if my idea has been reviewed?",
+        "How can I ascertain whether my idea has been taken into account?",
+        "How will I be informed if my idea has been acknowledged?",
+        "What is the process for receiving feedback on whether my idea has been taken into consideration?"
+      ],
+      "responses": [
+        "You will receive notification via email regarding the outcome of the idea review process. Please ensure to regularly check your email for any updates on your submission."
+      ]
+    },
+    {
+      "label": "Notification",
+      "patterns": [
+        "How can I determine if my idea has been reviewed?",
+        "How will I be notified if my idea has been considered?",
+        "What is the process for receiving feedback on the consideration of my idea?",
+        "How can I ascertain whether my idea has been taken into account?",
+        "How will I be informed if my idea has been taken under consideration?",
+        "What is the procedure for finding out if my idea has been reviewed?",
+        "How can I find out if my idea has been considered?",
+        "How will I be informed if my idea has been acknowledged?",
+        "What is the process for receiving feedback on whether my idea has been taken into consideration?",
+        "How do I know if my idea has been accepted or rejected?",
+        "What is the process for determining whether my idea has been approved or declined?",
+        "How can I find out if my idea has been approved or denied?",
+        "How will I be informed about the status of my idea, whether it has been accepted or rejected?",
+        "What is the method for determining the acceptance or rejection of my idea?",
+        "How do I receive confirmation regarding the acceptance or rejection of my idea?",
+        "How can I confirm whether my idea has been accepted or declined?",
+        "What is the procedure for determining whether my idea has been accepted or rejected?",
+        "How will I know if my idea has been accepted or rejected?",
+        "What steps are taken to inform me about the acceptance or rejection of my idea?"
+      ],
+      "responses": [
+        "Notification regarding the results of the idea review will be provided to you via email. It's important to regularly check your email for updates.",
+        "You will receive notification via email about the outcome of the idea review. Please ensure to check your email regularly for updates.",
+        "You will receive notification via email regarding the outcome of the idea review process. Please ensure to regularly check your email for any updates.",
+        "Notification regarding the outcome of the idea review will be sent to you via email. Kindly monitor your email inbox regularly for updates.",
+        "You will be notified of the results of the idea review process through email. It's important to check your email regularly to stay updated.",
+        "Notification of the idea review results will be communicated to you via email. Please remember to check your email regularly for updates.",
+        "You will receive notification via email regarding the outcome of the idea review. Please make sure to check your email regularly for updates.",
+        "Notification of the idea review results will be sent to you via email. It's essential to check your email inbox regularly for any updates.",
+        "Notification regarding the outcome of the idea review process will be sent to you via email. Should your idea be accepted, you will receive detailed instructions for the next steps.",
+        "Notification regarding the outcome of the idea review will be sent to you via email. If your idea is accepted, detailed instructions for the subsequent process will be provided."
+      ]
+    },
+    {
+      "label": "Obstacles",
+      "patterns": [
+        "What obstacles might my idea encounter?",
+        "What challenges could potentially impede the progress of my idea?",
+        "What difficulties could my idea face in its implementation?",
+        "What hindrances might arise for my idea?",
+        "What barriers could impede the progress of my idea?",
+        "What potential roadblocks could my idea encounter?",
+        "What challenges might my idea confront?",
+        "What impediments might my idea encounter along the way?",
+        "What potential difficulties could hinder the implementation of my idea?",
+        "What obstacles could my idea potentially face?"
+      ],
+      "responses": [
+        "There may be obstacles such as technical issues, budget constraints, or inconsistency with the school's goals and values. However, we will try to support and find ways to overcome any obstacles."
+      ]
+    },
+    {
+      "label": "Anonymity",
+      "patterns": [
+        "Can I submit an idea anonymously?",
+        "Is it possible for me to anonymously submit an idea?",
+        "Am I allowed to anonymously propose an idea?",
+        "Is it permissible to submit an idea without revealing my identity?",
+        "Can I keep my identity hidden while submitting an idea?",
+        "Is anonymous submission of ideas allowed?",
+        "Is it acceptable to submit an idea without disclosing my identity?",
+        "Can I submit an idea without revealing my identity?",
+        "How do I ask for feedback on my idea?"
+      ],
+      "responses": [
+        "Of course! You can choose to submit ideas anonymously if you wish. We respect everyone's privacy and trust."
+      ]
+    },
+    {
+      "label": "Feedback_Request",
+      "patterns": [
+        "How do I ask for feedback on my idea?",
+        "What steps should I take to request feedback on my idea?",
+        "How can I solicit feedback on my idea?",
+        "How can I seek feedback regarding my idea?",
+        "What is the method for requesting feedback on my idea?",
+        "How should I go about asking for feedback on my idea?",
+        "What steps do I need to take to receive feedback on my idea?",
+        "What is the procedure for seeking feedback on my idea?",
+        "How can I seek input on my idea?"
+      ],
+      "responses": [
+        "After submitting your idea, you can request feedback by leaving a message in the form or contacting us directly via email or phone number."
+      ]
+    },
+    {
+      "label": "Fit_with_School",
+      "patterns": [
+        "I want to know if my idea fits the needs of my school?",
+        "How can I determine if my idea aligns with the requirements of my school?",
+        "How can I ascertain whether my idea meets the requirements of my school?",
+        "Is there a way for me to determine if my idea meets the criteria of my school?",
+        "How can I confirm if my idea fulfills the demands of my school?",
+        "How do I know if my idea is in line with the requirements of my school?",
+        "Is there a method to determine if my idea satisfies the prerequisites of my school?",
+        "How can I verify if my idea fits the needs of my school?",
+        "How can I ensure if my idea meets the expectations of my school?",
+        "Is there a way for me to confirm if my idea aligns with the requirements of my school?"
+      ],
+      "responses": [
+        "We will consider each idea carefully and ensure that it reflects the needs and values of the school. However, it may also take more time and feedback from the community to properly evaluate."
+      ]
+    },
+    {
+      "label": "Feasibility_Assessment",
+      "patterns": [
+        "I want to know if my idea is feasible?",
+        "How can I determine the feasibility of my idea?",
+        "How do I assess the practicality of my idea?",
+        "Is there a way to determine if my idea is achievable?",
+        "How can I confirm the viability of my idea?",
+        "How do I ensure the practicality of my idea?",
+        "Is there a method to determine if my idea is possible?",
+        "How can I verify if my idea is viable?",
+        "How do I ensure the feasibility of my idea?",
+        "Is there a way to determine if my idea is realistic?"
+      ],
+      "responses": [
+        "Each idea will be considered for feasibility from a technical, financial, and social perspective. We will work with you to ensure that your ideas are possible."
+      ]
+    },
+    {
+      "label": "Evaluation_Process_Info",
+      "patterns": [
+        "I need more information about the idea evaluation process.",
+        "Where can I find additional details regarding the process of evaluating ideas?",
+        "Where can I obtain further information about the evaluation process for ideas?",
+        "How can I access more information about the process used to evaluate ideas?",
+        "How do I gather more information about the process for evaluating ideas?",
+        "Where can I learn more about the procedure for evaluating ideas?",
+        "Where can I find detailed information about the process used to assess ideas?",
+        "How can I obtain more information about the process for reviewing ideas?",
+        "How do I access detailed information about the process for evaluating ideas?",
+        "Where can I find comprehensive details about the process for evaluating ideas?"
+      ],
+      "responses": [
+        "You can find detailed information about the idea evaluation process on our website or contact us directly for support."
+      ]
+    },
+    {
+      "label": "Collaboration_Opportunities",
+      "patterns": [
+        "Are there opportunities for me to work with another team to develop ideas?",
+        "Is it possible for me to collaborate with another team to enhance idea development?",
+        "Can I engage with another team to jointly develop ideas?",
+        "Are there opportunities for me to team up with another group to advance idea development?",
+        "Is there a chance for me to cooperate with another team to refine ideas?",
+        "Can I join forces with another team to foster idea development?",
+        "Are there possibilities for me to collaborate with another team to advance idea creation?",
+        "Is it feasible for me to partner with another team to enhance idea implementation?",
+        "Can I team up with another group to collectively develop ideas?",
+        "Are there opportunities for me to collaborate with another team to refine and develop ideas?"
+      ],
+      "responses": [
+        "We encourage collaboration and interaction between community members. If you are interested in working with another team, please contact us directly for more details."
+      ]
+    },
+    {
+      "label": "Ideas_Evaluation_Criteria",
+      "patterns": [
+        "What criteria are there to evaluate ideas?",
+        "What standards are utilized to assess ideas?",
+        "What factors are considered in the evaluation of ideas?",
+        "What measures are employed to evaluate the merit of ideas?",
+        "What benchmarks are used to judge the quality of ideas?",
+        "What guidelines are followed in appraising ideas?",
+        "What standards are applied when assessing ideas?",
+        "What criteria are employed to evaluate the viability of ideas?",
+        "What principles guide the evaluation process for ideas?"
+      ],
+      "responses": [
+        "Criteria for evaluating ideas may include feasibility, creativity, social impact, and alignment with the school's goals and values."
+      ]
+    }
+  ]
+}
